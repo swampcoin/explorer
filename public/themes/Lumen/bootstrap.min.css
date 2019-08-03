@@ -13,3 +13,13 @@ body{background-color:#e3eac5 !important}
     color: #6dbc8f !important;
     background-color: #4d2802 !important;
     border-color: transparent !important;
+.pagination>li>a, .pager>li>a, .pagination>li>span, .pager>li>span {
+    position: relative;
+    top: 0;
+    border-width: 0 1px 4px 1px;
+    color: #4d2802;
+	background-color: #6dbc8f !important;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
