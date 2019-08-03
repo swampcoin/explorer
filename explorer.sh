@@ -1,1 +1,1 @@
-screen  -dmS explorer npm start explorer
+screen  -dmS swampexplorer npm start swampexplorer

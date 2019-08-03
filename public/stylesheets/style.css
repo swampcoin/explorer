@@ -4,6 +4,10 @@ body {
  /* background-image: url('/images/background2.png');*/
 }
 
+.navbad-brand {
+	display: none !important;
+}
+
 #index-search {
 	width: 80%;
 }
