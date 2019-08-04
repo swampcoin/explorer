@@ -21,3 +21,4 @@ body{background-color:#e3eac5 !important}
 .panel{border: 1px solid #4d2802;border-width: 0 1px 4px 1px;}
 .btn-success{color: #4d2802 !important;background-color:#6dbc8f !important;border-color:#4d2802 !important;}
 table.dataTable thead>tr>th{padding-left:18px;padding-right:18px;background-color:#4d2802 !important;color:#6dbc8f !important;}
+.nav-tabs>li>a:hover,.nav-tabs>li>a:focus,.nav-tabs>li.active>a,.nav-tabs>li.active>a:hover,.nav-tabs>li.active>a:focus,.nav-tabs.open>a,.nav-tabs.open>a:hover,.nav-tabs.open>a:focus{padding-top: 13px;padding-bottom:13px;margin-top: 0;background-color:#4d2802;color:#6dbc8f;}
