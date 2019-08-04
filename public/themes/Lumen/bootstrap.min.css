@@ -23,3 +23,13 @@ body{background-color:#e3eac5 !important}
     font-weight: bold;
     text-transform: uppercase;
 }
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: #e7e7e7;
+    background-color: #6dbc8f;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+    color: #6dbc8f;
+    background-color: #4d2802 !important;
+	font-weight: bold
+}
