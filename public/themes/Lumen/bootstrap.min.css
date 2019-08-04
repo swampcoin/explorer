@@ -19,3 +19,4 @@ body{background-color:#e3eac5 !important}
 .label-default {background-color:#4d2802 !important;color:#6dbc8f!important;}
 .panel-primary>.panel-heading{color:#6dbc8f;background-color:#4d2802;border-color:transparent;font-weight:bold;text-align:center;}
 .panel{border: 1px solid #4d2802;border-width: 0 1px 4px 1px;}
+.btn-success{color: #4d2802 !important;background-color:#6dbc8f !important;border-color:#4d2802 !important;}
